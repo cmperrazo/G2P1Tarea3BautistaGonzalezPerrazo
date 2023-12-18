@@ -1,0 +1,27 @@
+[
+  {
+    "career": "Tecnologias de la informacion",
+    "level": "Segundo",
+    "subject": [
+      "Programacion Orientada. O.",
+      "Calculo vectorial.",
+      "Fisica."
+    ],
+    "identification": 1234567854,
+    "name": "Alejandro",
+    "lastName": "Lojan",
+    "phone": 987654321,
+    "userName": "dabautista12",
+    "universityId": 73389
+  },
+  {
+    "career": "Biotecnologia",
+    "level": "Segundo",
+    "identification": 2345676543,
+    "name": "Bryan",
+    "lastName": "Gonzalez",
+    "phone": 987654123,
+    "userName": "brgonzalez23",
+    "universityId": 35609
+  }
+]
